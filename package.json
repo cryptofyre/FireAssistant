@@ -1,0 +1,17 @@
+{
+  "name": "firebot",
+  "version": "1.0.0",
+  "description": "Custom bot build for and by Fire!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fire",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.29.3"
+  }
+}
